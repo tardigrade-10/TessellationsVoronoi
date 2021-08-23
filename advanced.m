@@ -1,7 +1,6 @@
 function Voronoi_growth
 % source code that produces a GIF.
-%
-% 2017-07-29 Jahobr (reworked 2017-10-03)
+
  
 [pathstr,fname] = fileparts(which(mfilename)); % save files under the same name and at file location
  
