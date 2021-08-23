@@ -1,0 +1,16 @@
+code for animation in matlab
+https://commons.wikimedia.org/wiki/File:Voronoi_growth_euclidean.gif
+
+after running this code in advanced.m it should make something like Voronoi_growth_euclidean.gif 
+
+
+https://learnopencv.com/delaunay-triangulation-and-voronoi-diagram-using-opencv-c-python/
+
+https://sukhbinder.wordpress.com/2014/09/04/voronoi-with-python/
+
+https://www.ics.uci.edu/~eppstein/gina/scot.drysdale.html
+
+https://towardsdatascience.com/how-to-create-voronoi-regions-with-geospatial-data-in-python-adbb6c5f2134
+
+
+https://lvngd.com/blog/python-maze-generator-part-ii-voronoi-diagrams/
